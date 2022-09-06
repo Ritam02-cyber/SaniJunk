@@ -66,15 +66,13 @@ Locate those places in the website through the Google Maps which are close to th
 
 - [Diya Karmakar](https://github.com/diyakarmakar779)
 - [Aman Singh](https://gitHub.com/GitterDoneBoi)
+- [Ritam Nath](https://github.com/Ritam02-cyber)
 - [Jyotiska Bhattacharjee](https://github.com/jyotishka747i)
 - [Abhinav Ghosh](https://github.com/Abhinav710-byte)
 
   
 ![Logo](https://sanijunk.pythonanywhere.com/static/SanijunkFunky.png)
 
-    
-## Feedback
-
-If you have any feedback, please reach out to us at debroyshayan@gmail.com
+   
 
   
