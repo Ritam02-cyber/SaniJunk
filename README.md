@@ -62,7 +62,7 @@ Locate those places in the website through the Google Maps which are close to th
 
 **Backend:** django, Python, Google Maps API, Javascript
   
-## Contributors(frontend part)
+## Contributors
 
 - [Diya Karmakar](https://github.com/diyakarmakar779)
 - [Aman Singh](https://gitHub.com/GitterDoneBoi)
